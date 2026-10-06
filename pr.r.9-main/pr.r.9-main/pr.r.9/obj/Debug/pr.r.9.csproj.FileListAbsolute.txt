@@ -1,0 +1,14 @@
+D:\simss\projectssss\pr.r.9\obj\Debug\pr.r.9.csproj.AssemblyReference.cache
+D:\simss\projectssss\pr.r.9\obj\Debug\pr.r.9.csproj.CoreCompileInputs.cache
+D:\simss\projectssss\pr.r.9\bin\Debug\pr.r.9.exe.config
+D:\simss\projectssss\pr.r.9\bin\Debug\pr.r.9.exe
+D:\simss\projectssss\pr.r.9\bin\Debug\pr.r.9.pdb
+D:\simss\projectssss\pr.r.9\obj\Debug\pr.r.9.exe
+D:\simss\projectssss\pr.r.9\obj\Debug\pr.r.9.pdb
+D:\Users\1213-11\Documents\2-ИСП\Кондратюк Е. С\pr.r.9-main\pr.r.9-main\pr.r.9\bin\Debug\pr.r.9.exe.config
+D:\Users\1213-11\Documents\2-ИСП\Кондратюк Е. С\pr.r.9-main\pr.r.9-main\pr.r.9\bin\Debug\pr.r.9.exe
+D:\Users\1213-11\Documents\2-ИСП\Кондратюк Е. С\pr.r.9-main\pr.r.9-main\pr.r.9\bin\Debug\pr.r.9.pdb
+D:\Users\1213-11\Documents\2-ИСП\Кондратюк Е. С\pr.r.9-main\pr.r.9-main\pr.r.9\obj\Debug\pr.r.9.csproj.AssemblyReference.cache
+D:\Users\1213-11\Documents\2-ИСП\Кондратюк Е. С\pr.r.9-main\pr.r.9-main\pr.r.9\obj\Debug\pr.r.9.csproj.CoreCompileInputs.cache
+D:\Users\1213-11\Documents\2-ИСП\Кондратюк Е. С\pr.r.9-main\pr.r.9-main\pr.r.9\obj\Debug\pr.r.9.exe
+D:\Users\1213-11\Documents\2-ИСП\Кондратюк Е. С\pr.r.9-main\pr.r.9-main\pr.r.9\obj\Debug\pr.r.9.pdb

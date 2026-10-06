@@ -1,7 +1,0 @@
-D:\simss\projectssss\pr.r.9\obj\Debug\pr.r.9.csproj.AssemblyReference.cache
-D:\simss\projectssss\pr.r.9\obj\Debug\pr.r.9.csproj.CoreCompileInputs.cache
-D:\simss\projectssss\pr.r.9\bin\Debug\pr.r.9.exe.config
-D:\simss\projectssss\pr.r.9\bin\Debug\pr.r.9.exe
-D:\simss\projectssss\pr.r.9\bin\Debug\pr.r.9.pdb
-D:\simss\projectssss\pr.r.9\obj\Debug\pr.r.9.exe
-D:\simss\projectssss\pr.r.9\obj\Debug\pr.r.9.pdb
